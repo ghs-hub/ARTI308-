@@ -1,5 +1,5 @@
 # ARTI308-
-Assignment 1 for ARTI308 course
+Assignment 1 for ARTI308 - Machine Learning course
 
 Hello, my name is Ghina Alshehri. 
 
